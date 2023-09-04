@@ -13,6 +13,7 @@ body{background-image: linear-gradient(lightblue, #0D698B); color: #000; font-fa
 	text-align: center; padding: 0px 30px; border-radius: 15px;}
 .navmenu a:hover{background-color: #0D698B; color: black; font-weight: bold;}
 .navmenu a.active{background-color: #32527B; color: black;}
+.footer {text-align: center; padding: 10px;}
 .footer a{display: inline-block; color: orange; font-weight: bold; text-decoration: none; margin: 5px;}
 .footer a:hover{text-decoration: underline;}
 .footer a.top:hover{color: white;}
