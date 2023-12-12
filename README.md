@@ -1,2 +1,2 @@
 # simple-web-showcase
-A clean HTML and CSS project ideal for learning web development fundamentals.
+A simple project made to practice HTML and CSS.
